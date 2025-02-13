@@ -24,3 +24,13 @@ A simple and elegant GUI application to download YouTube videos and audio.
 1. Clone the repository:
    ```bash
    git clone https://github.com/6tab/youtube-downloader-gui.git
+
+---
+
+## Credits 🙌
+Developed by 6tab.
+
+## Built with ❤️ using Python, Tkinter, and yt-dlp.
+
+## License 📜
+This project is licensed under the MIT License. See the LICENSE file for details.
