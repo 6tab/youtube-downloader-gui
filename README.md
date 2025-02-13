@@ -30,7 +30,11 @@ A simple and elegant GUI application to download YouTube videos and audio.
 ## Credits 🙌
 Developed by 6tab.
 
+---
+
 ## Built with ❤️ using Python, Tkinter, and yt-dlp.
+
+---
 
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
