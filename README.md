@@ -38,3 +38,15 @@ Developed by 6tab.
 
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+---
+
+![License](https://img.shields.io/github/license/6tab/youtube-downloader-gui.svg)
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+
+![GitHub Stars](https://img.shields.io/github/stars/6tab/youtube-downloader-gui?style=social)
+
+![Downloads](https://img.shields.io/github/downloads/6tab/youtube-downloader-gui/total.svg)
+
